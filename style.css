@@ -1,0 +1,61 @@
+
+
+body{
+    background-color: wheat;
+}
+
+.recipe { 
+  border: 4px white solid;
+padding: 30px;
+margin:40px 100px ;
+
+}
+
+h1 {
+font-weight: 400px;
+font-family:young Serif ;
+
+}
+
+p {
+font-family: outfit;
+font-weight:  400, 600, 700;
+
+}
+
+h3 {
+    font-weight: 800;
+color: rgb(152, 21, 152)
+
+}
+.pt {
+height: 150px;
+background-color:hsl(330, 47%, 93%);
+
+}
+h2 {
+font-weight: 800;
+color: 	hsl(32, 100%, 34%);
+
+}
+strong { 
+    font-weight: 500;
+    font-family: outfit;
+}
+
+.nutrition {
+   
+line-height: 4;
+
+
+}
+.sss {
+    word-spacing: 100px;
+
+}
+span{
+font-weight: 800;
+color:	hsl(32, 100%, 34%);
+
+}
+
