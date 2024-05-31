@@ -1,15 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5dc;
+    margin: 0;
+    padding: 20px;
+  }
+  .recipe {
+   width: 500px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+  }
 
 
-body{
-    background-color: wheat;
-}
-
-.recipe { 
-  border: 4px white solid;
-padding: 30px;
-margin:40px 100px ;
-
-}
 
 h1 {
 font-weight: 400px;
